@@ -108,7 +108,10 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/aitimxin/aitimxin.github.io
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: gh-pages
 
 #  hexo-generator-search 的 Hexo 插件来做内容搜索
 search:
