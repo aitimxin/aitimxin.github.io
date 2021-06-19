@@ -1,6 +1,6 @@
 ---
-title: 每日一问
-typora-copy-images-to: 每日一问
+title: index
+typora-copy-images-to: index
 date: 2021-04-19 09:22:22
 tags:
 	- ToDoList
@@ -12,7 +12,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ## Quick Start
 
-### Create a new post
+### Create a new post9
 
 ``` bash
 $ hexo new "My New Post"
